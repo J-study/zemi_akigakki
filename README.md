@@ -1,1 +1,1 @@
-ModelをXL→普通に変更
+LoRAをXL→普通に変更
