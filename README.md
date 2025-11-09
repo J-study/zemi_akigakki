@@ -1,2 +1,1 @@
-Model:
-stabilityai/stable-diffusion-xl-base-1.0
+ModelをXL→普通に変更
